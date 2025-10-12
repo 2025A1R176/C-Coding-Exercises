@@ -18,7 +18,3 @@ Each program is **self-contained** and includes comments to explain the logic.
 - To **practice C programming concepts** systematically.  
 - To serve as a **reference for beginners** learning C.  
 - To maintain a **personal portfolio** of coding exercises.
-
-## Usage
-
-
